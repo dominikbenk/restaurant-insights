@@ -1,3 +1,4 @@
 ImageBind/
 images/
 data.json
+.ipynb_checkpoints/*
